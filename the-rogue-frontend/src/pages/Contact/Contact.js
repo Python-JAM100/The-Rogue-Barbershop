@@ -36,13 +36,13 @@ const Contact = () => {
             </div>
           <div className="contact2">
             <div className="contact3">
-              <a href="https://www.facebook.com/profile.php?id=100080491153430">< FaFacebookSquare size={40} /> <br/> <p>Facebook</p></a>
+              <a href="https://www.facebook.com/profile.php?id=100080491153430">< FaFacebookSquare /> <br/> <p>Facebook</p></a>
             </div>
             <div className="contact3">
-              <a href="https://api.whatsapp.com/send?phone=60146139597">< FaWhatsapp size={40} /> <br/> <p> WhatsApp </p></a>
+              <a href="https://api.whatsapp.com/send?phone=60146139597">< FaWhatsapp /> <br/> <p> WhatsApp </p></a>
             </div>
             <div className="contact3">
-              <a href="https://www.instagram.com/theroguebarber.official/?fbclid=IwAR0OCn1K_CCQH9f4avFpCMA-3abTpuMhFPfJlM93aOCM8occJXpuV_5Ql7Y">< FiInstagram size={40} /> <br/> <p>Instagram</p></a>
+              <a href="https://www.instagram.com/theroguebarber.official/?fbclid=IwAR0OCn1K_CCQH9f4avFpCMA-3abTpuMhFPfJlM93aOCM8occJXpuV_5Ql7Y">< FiInstagram /> <br/> <p>Instagram</p></a>
               <br/>
             </div>
           </div>
