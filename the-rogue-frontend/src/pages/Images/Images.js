@@ -6,20 +6,14 @@ import hair3 from "../../assets/hair-style3.png";
 import hair4 from "../../assets/hair-style4.png";
 import hair5 from "../../assets/hair-style5.png";
 import hair6 from "../../assets/hair-style6.png";
-// import hair7 from "../../assets/hair-style7.png";
 import hair8 from "../../assets/hair-style8.png";
 import hair9 from "../../assets/hair-style9.png";
-// import hair10 from "../../assets/hair-style10.png";
 import hair11 from "../../assets/hair-style11.png";
 import hair12 from "../../assets/hair-style12.png";
-// import hair13 from "../../assets/hair-style13.png";
 import barber1 from "../../assets/barber1.jpg";
-// import barber2 from "../../assets/barber2.jpg";
 import barber3 from "../../assets/barber3.jpg";
 import barber4 from "../../assets/barber4.jpg";
 import barber5 from "../../assets/barber5.png";
-// import cutarea1 from "../../assets/cutting-area.jpg";
-// import cutarea2 from "../../assets/cutting-area3.jpeg";
 
 const Images = () => {
   return (
