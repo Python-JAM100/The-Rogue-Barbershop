@@ -15,7 +15,6 @@
   -ms-flex: 60%;
   flex: 60%;
   max-width: 60%;
-  // background-color: blue;
 }
 
 .cover-text {
@@ -59,20 +58,17 @@
   flex: 100%;
   max-width: 100%; 
   padding: 80px 50px;
-  // background-color: aquamarine;
 }
 
 .cover-p1 {
   margin: auto;
   display: flex;
-  //-ms-flex: 100%;
   flex: 100%;
   text-align: left;
   width: 100%;
   margin-top: -3%;
   float: left;
   margin-left: 10%;
-  // background-color: violet;
 
   p {
     color: lightseagreen;
@@ -93,15 +89,12 @@
 .cover-p2 {
   margin: auto;
   display: block;
-  // -ms-flex: 100%;
   flex: 100%;
   width: 100%;
-  // max-width: 100%;
   float: right;
   margin-right: 10%;
   text-align: right;
   margin-top: 3%;
-  // background-color: aqua;
 
   p {
     color: lightseagreen;
@@ -129,7 +122,6 @@
     background-image: url("../../assets/main-door7.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    // min-width: fit-content;
     margin-top: 5%;
     margin-bottom: 3%;
   }
@@ -137,8 +129,6 @@
   .cover-bg {
     max-width: 100%;
     margin: auto;
-    // background-color: aqua;
-    // margin-bottom: 0%;
   }
 
   .cover-text {
@@ -148,18 +138,13 @@
     max-width: 80%;
     padding: 30px 50px;
     margin: auto;
-    // margin-left: 10%;
-    // margin-right: 10%;
-    // margin-top: 70%;
     margin-left: 0%;
     float: left;
     display: flex;
-    // background-color: antiquewhite;
     margin-top: 8%;
     margin-bottom: 20%;
     
     & > h1 {
-      // margin: auto;
       margin-left: 8%;
       margin-right: 8%;
       font-size: 55px;
@@ -180,20 +165,17 @@
     max-width: 80%; 
     padding: 80px 50px;
     margin-bottom: 8%;
-    // background-color: aquamarine;
   }
   
   .cover-p1 {
     margin: auto;
     display: flex;
-    //-ms-flex: 100%;
     flex: 100%;
     text-align: left;
     width: 100%;
     margin-top: -3%;
     float: left;
     margin-left: 10%;
-    // background-color: violet;
   
     p {
       color: lightseagreen;
@@ -214,15 +196,12 @@
   .cover-p2 {
     margin: auto;
     display: block;
-    // -ms-flex: 100%;
     flex: 100%;
     width: 100%;
-    // max-width: 100%;
     float: right;
     margin-right: 10%;
     text-align: right;
     margin-top: 3%;
-    // background-color: aqua;
   
     p {
       color: lightseagreen;
@@ -247,7 +226,6 @@
     background-image: url("../../assets/main-door6.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-    // max-width: fit-content;
     margin-top: 8%;
     margin-bottom: 3%;
   }
@@ -255,8 +233,6 @@
   .cover-bg {
     max-width: 100%;
     margin: auto;
-    // background-color: aqua;
-    // margin-bottom: 0%;
   }
 
   .cover-text {
@@ -266,16 +242,13 @@
     max-width: 60%;
     padding: 30px 50px;
     margin: auto;
-    // margin-top: 70%;
     margin-left: 3%;
     float: left;
     display: flex;
-    // background-color: antiquewhite;
     margin-top: 8%;
     margin-bottom: 50%;
     
     & > h1 {
-      // margin: auto;
       font-size: 45px;
       text-align: center;
       color: cornsilk;
@@ -296,13 +269,11 @@
     margin-top: -3%;
     padding: 30px 50px;
     margin-bottom: 10%;
-    // background-color: aquamarine;
   }
   
   .cover-p1 {
     margin: auto;
     display: flex;
-    //-ms-flex: 100%;
     flex: 100%;
     text-align: left;
     width: 100%;
@@ -310,7 +281,6 @@
     float: left;
     margin-bottom: 0%;
     margin-left: 3%;
-    // background-color: violet;
   
     p {
       color: aquamarine;
@@ -331,17 +301,14 @@
   .cover-p2 {
     margin: auto;
     display: block;
-    // -ms-flex: 100%;
     flex: 100%;
     width: 100%;
-    // max-width: 100%;
     margin: auto;
     float: right;
     margin-right: 3%;
     text-align: right;
     margin-top: 3%;
     margin-bottom: 0%;
-    // background-color: aqua;
   
     p {
       color: aquamarine;
@@ -370,7 +337,6 @@
     background-image: url("../../assets/main-door6.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    // max-width: fit-content;
     margin-top: 10%;
     margin-bottom: 3%;
   }
@@ -378,8 +344,6 @@
   .cover-bg {
     max-width: 100%;
     margin: auto;
-    // background-color: aqua;
-    // margin-bottom: 0%;
   }
 
   .cover-text {
@@ -389,16 +353,13 @@
     max-width: 60%;
     padding: 30px 50px;
     margin: auto;
-    // margin-top: 70%;
     margin-left: 3%;
     float: left;
     display: flex;
-    // background-color: antiquewhite;
     margin-top: 8%;
     margin-bottom: 50%;
     
     & > h1 {
-      // margin: auto;
       font-size: 40px;
       text-align: center;
       color: cornsilk;
@@ -418,13 +379,11 @@
     margin: auto;
     padding: 30px 50px;
     margin-bottom: 5%;
-    // background-color: aquamarine;
   }
   
   .cover-p1 {
     margin: auto;
     display: flex;
-    //-ms-flex: 100%;
     flex: 100%;
     text-align: left;
     width: 100%;
@@ -432,7 +391,6 @@
     float: left;
     margin-bottom: 0%;
     margin-left: 3%;
-    // background-color: violet;
   
     p {
       color: aquamarine;
@@ -441,7 +399,7 @@
       text-decoration: underline;
       text-decoration-color: aquamarine;
       animation-name: slide;
-      animation-duration: 4s;
+      animation-duration: 3s;
     }
   
     @keyframes slide {
@@ -453,17 +411,14 @@
   .cover-p2 {
     margin: auto;
     display: block;
-    // -ms-flex: 100%;
     flex: 100%;
     width: 100%;
-    // max-width: 100%;
     margin: auto;
     float: right;
     margin-right: 3%;
     text-align: right;
     margin-top: 3%;
     margin-bottom: 0%;
-    // background-color: aqua;
   
     p {
       color: aquamarine;
@@ -472,7 +427,7 @@
       text-decoration: underline;
       text-decoration-color: aquamarine;
       animation-name: slide2;
-      animation-duration: 4s;
+      animation-duration: 3s;
     }
   
     @keyframes slide2 {
@@ -483,5 +438,198 @@
 
   .cover-text3 {
     padding: 0px 0px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .cover {
+    margin-top: 10%;
+    margin-bottom: 3%;
+  }
+
+  .cover-bg {
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .cover-text {
+    padding: 30px 50px;
+    margin: auto;
+    margin-left: 3%;
+    float: left;
+    margin-top: 8%;
+    margin-bottom: 30%;
+    
+    & > h1 {
+      margin-left: -10%;
+      font-size: 30px;
+      text-align: center;
+      color: cornsilk;
+      font-style: initial;
+      font-family: cursive;
+      animation: h1 1s ease-in-out infinite alternate;
+    }
+  }
+  
+  .cover-text2 {
+    margin: auto;
+    padding: 30px 50px;
+    margin-bottom: 3%;
+    margin-top: 15%;
+  }
+  
+  .cover-p1 {
+    margin: auto;
+    display: flex;
+    flex: 100%;
+    text-align: left;
+    width: 100%;
+    margin-top: 10%;
+    float: left;
+    margin-bottom: 0%;
+    margin-left: -10%;
+  
+    p {
+      color: aquamarine;
+      font-size: 18px;
+      position: relative;
+      text-decoration: underline;
+      text-decoration-color: aquamarine;
+      animation-name: slide;
+      animation-duration: 3s;
+    }
+  
+    @keyframes slide {
+      0% {left: -100%}
+      100% {left: 0%}
+    }
+  }
+  
+  .cover-p2 {
+    margin: auto;
+    display: block;
+    flex: 100%;
+    width: 100%;
+    margin: auto;
+    float: right;
+    margin-right: -10%;
+    text-align: right;
+    margin-top: 3%;
+    margin-bottom: 0%;
+  
+    p {
+      color: aquamarine;
+      font-size: 18px;
+      position: relative;
+      text-decoration: underline;
+      text-decoration-color: aquamarine;
+      animation-name: slide2;
+      animation-duration: 3s;
+    }
+  
+    @keyframes slide2 {
+      0% {right: -100%}
+      100% {right: 0%}
+    }
+  }
+
+  .cover-text3 {
+    padding: 0px 0px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .cover {
+    margin-top: 13%;
+    margin-bottom: 3%;
+  }
+
+  .cover-bg {
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .cover-text {
+    padding: 80px 50px;
+
+    & > h1 {
+      display: none;
+    }
+  }
+  
+  .cover-text2 {
+    margin: auto;
+    padding: 30px 50px;
+    margin-bottom: 3%;
+    margin-top: 15%;
+  }
+  
+  .cover-p1 {
+    margin: auto;
+    display: flex;
+    flex: 100%;
+    text-align: left;
+    width: 100%;
+    margin-top: 10%;
+    float: left;
+    margin-bottom: 0%;
+    margin-left: -15%;
+  
+    p {
+      color: aquamarine;
+      font-size: 13px;
+      position: relative;
+      text-decoration: underline;
+      text-decoration-color: aquamarine;
+      animation-name: slide;
+      animation-duration: 3s;
+    }
+  
+    @keyframes slide {
+      0% {left: -100%}
+      100% {left: 0%}
+    }
+  }
+  
+  .cover-p2 {
+    margin: auto;
+    display: block;
+    flex: 100%;
+    width: 100%;
+    margin: auto;
+    float: right;
+    margin-right: -15%;
+    text-align: right;
+    margin-top: 3%;
+    margin-bottom: 0%;
+  
+    p {
+      color: aquamarine;
+      font-size: 13px;
+      position: relative;
+      text-decoration: underline;
+      text-decoration-color: aquamarine;
+      animation-name: slide2;
+      animation-duration: 3s;
+    }
+  
+    @keyframes slide2 {
+      0% {right: -100%}
+      100% {right: 0%}
+    }
+  }
+
+  .cover-text3 {
+    padding: 0px 0px;
+  }
+}
+
+@media screen and (max-width: 250px) {
+  .cover-p1 {
+    p { display: none; }
+  }
+
+  .cover-p2 {
+    p { display: none; }
   }
 }
