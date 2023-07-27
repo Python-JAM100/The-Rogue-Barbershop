@@ -3,18 +3,22 @@
   min-width: 100vw;
   overflow: hidden;
   color: #fff;
+  top: 0px;
+  position: fixed;
+  z-index: 99;
 
   .nav-header {
     background-color: black;
     justify-content: center;
     align-items: center;
-    position: fixed;
+    position: static;
     width: 100%;
-    z-index: 99;
-    margin-top: 0%;
+    // z-index: 99;
+    margin-top: 0px;
 
     & img {
       width: 200px;
+      margin-top: 2%;
     }
 
     & li a {
@@ -32,17 +36,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
-    & li a {
-      display: flex;
-      color: lightgray;
-      padding: 10px;
-      text-decoration: none;
-    }
-    
-    & > * {
-      color: #fff;
-    }
   }
 }
 
@@ -50,11 +43,10 @@
   .t-nav {
     width: 100vw;
     flex-direction: row;
-    position: relative;
+    top: 0;
   }
   
   .nav-header {
-    display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -62,6 +54,11 @@
     margin: auto;
     text-align: center;
     margin-top: 0%;
+
+    & img {
+      max-width: 180px;
+      margin-top: 2%;
+    }
   }
 
   .nav-hide{
