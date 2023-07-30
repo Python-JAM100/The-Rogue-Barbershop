@@ -16,7 +16,7 @@ const Team = () => {
       <div className="team-links">
         <div className="team-text">
           <div className="team-icon">
-            <BsFillFileEarmarkPersonFill size={180} />
+            <BsFillFileEarmarkPersonFill/>
             <br/>
             <h4>Harry</h4>
             <h5>Master Barber</h5>
@@ -25,7 +25,7 @@ const Team = () => {
         <br/>
         <div className="team-text">
           <div className="team-icon">
-            <BsFillFileEarmarkPersonFill size={180} />
+            <BsFillFileEarmarkPersonFill/>
             <br/>
             <h4>Barber 1</h4>
             <h5>Barber </h5>
@@ -33,7 +33,7 @@ const Team = () => {
         </div>
         <div className="team-text-2">
           <div className="team-icon-2">
-            <BsFillFileEarmarkPersonFill size={180}/>
+            <BsFillFileEarmarkPersonFill/>
             <h4>Barber 2</h4>
             <h5>Barber</h5>
           </div>
@@ -41,7 +41,7 @@ const Team = () => {
         <br/>
         <div className="team-text-2">
           <div className="team-icon-2"> 
-            <BsFillFileEarmarkPersonFill size={180}/>
+            <BsFillFileEarmarkPersonFill/>
             <h4>Barber 3</h4>
             <h5>Barber</h5>
         </div>
